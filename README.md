@@ -1,2 +1,5 @@
 # ionut755751
-1
+
+python good
+c++ hard af
+html........
